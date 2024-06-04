@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&weight=300&size=50&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&random=false&width=1000&lines=Hi%2C+I'm+Victor;I'm+a+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&weight=300&size=50&duration=4000&pause=1000&color=5DFFEE&center=true&vCenter=true&random=false&width=1000&lines=Hi%2C+I'm+Victor;I'm+a+Software+Engineer)](https://git.io/typing-svg)
