@@ -1,7 +1,8 @@
+<!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&weight=300&size=50&duration=4000&pause=1000&color=402B23&center=true&vCenter=true&random=false&width=1000&lines=Hi%2C+I'm+Victor;I'm+a+Software+Developer)](https://git.io/typing-svg)
+-->
 
-<div>  
-  
+<div style="display: flex; justify-content: center;">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=victorccole&show_icons=true&theme=kacho_ga#gh-dark-mode-only)](https://github.com/victorccole/github-readme-stats#gh-dark-mode-only"/>  
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorccole&layout=compact&theme=kacho_ga#gh-dark-mode-only"/>
 </div>
