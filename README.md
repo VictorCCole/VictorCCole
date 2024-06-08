@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=402B23&color:FFF)](mailto:victorc.cole09@gmail.com@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=402B23&color:FFF)](https://www.linkedin.com/in/victor-c-cole-28761520a/)
+[![Instagram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=telegram&logoColor=402B23&color:FFF)](https://t.me/VictorCCole)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=402B23&color:FFF)](https://www.instagram.com/victorppepe/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=402B23&color:FFF)](https://www.linkedin.com/in/victor-c-cole-28761520a/)
 
 <h3 align="left">My Stack ~</h3>
 <div>
