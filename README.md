@@ -2,7 +2,8 @@
 
 <div>
 
-<img align="right" width="400" alt="Illustration of Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+<img align="right" width="400" alt="Illustration of Shimarin" src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151117-AOcwR3mXCDx7.jpg"/>
+<!-- <img align="right" width="400" alt="Illustration of Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/> -->
 
 <h2> / about me /</h2>
   
@@ -45,6 +46,6 @@
 </br></br>
 
 <div align="right">
-<a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
+<!-- <a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a> -->
 </div>
 </div>
