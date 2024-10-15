@@ -19,8 +19,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
   
 <h4>Currently Learning</h4>
-  <p>I'm currently expanding my skill set with <strong>TypeScript</strong>, to bring stronger typing to my JavaScript code, and <strong>Go</strong>, a powerful language for efficient and scalable back-end services.</p>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ts" />
+  <p>I'm currently expanding my skill set with <strong>Go</strong>, a powerful language for efficient and scalable backend services.</p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go" />
   
 <h3>Frameworks & Libraries</h3>
