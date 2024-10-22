@@ -31,7 +31,7 @@
 <h3>Designing Tools</h3>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
   
-<h2> / projects / </h2>
+<!-- <h2> / projects / </h2> -->
 <ul>
  <!-- <li><a href="https://github.com/VictorCCole/Project1">Project 1</a> - Breve descrição do projeto, suas funcionalidades principais, e as tecnologias utilizadas.</li> -->
 </ul>
