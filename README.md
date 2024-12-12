@@ -7,7 +7,7 @@
 
 <h2> / about me /</h2>
   
-- ⭐ currently working as **web-development** (Front&Back)
+- ⭐ currently working as **web-development** 
 - 💼 currently working in **Cresol Confederação**
   
 <h2> / current skills / </h2>
